@@ -1,7 +1,7 @@
 # SISTECH 2026 — MLOps Hands-On 1: Risk Score Feature & Label Engineering
 
 **Nama:** Lutfiana Putri Amalia
-**Program:** Sisters in Tech by RISTEK Fasilkom UI 2026 — Machine Learning Operations
+**Program:** Sisters in Tech by RISTEK Fasilkom UI 2026 - Machine Learning Operations
 
 ## 1. Deskripsi Dataset
 
